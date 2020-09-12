@@ -1,8 +1,6 @@
 ---
 title: ":ramen: ecrecwin, Web Application Recon Tool"
 layout: post
-tag: jekyll
-image: https://sergiokopplin.github.io/indigo/assets/images/jekyll-logo-light-solid.png
 headerImage: true
 projects: true
 hidden: true 
