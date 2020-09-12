@@ -34,14 +34,14 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: https://www.facebook.com/singh.praveen.391
+facebook: singh.praveen.391
 twitter: mytwitter
-instagram: https://www.instagram.com/pr4v3n/
+instagram: pr4v3n
 # pinterest: mypinterest
-linkedin: https://www.linkedin.com/in/praveen-thiyagarayam-901131126/
+linkedin: praveen-thiyagarayam-901131126
 # youtube: myyoutube
 # spotify: myspotify
-github: https://www.github.com/im403
+github: im403
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
