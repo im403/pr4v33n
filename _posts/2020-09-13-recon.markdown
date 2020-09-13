@@ -41,7 +41,6 @@ amass enum -list
 ```bash
 amass enum -passive -d example.com -config config.ini -o example_passive.txt
 ```
-
 ```bash
 amass enum -active -d example.com -config config.ini -o example_active.txt
 ```
