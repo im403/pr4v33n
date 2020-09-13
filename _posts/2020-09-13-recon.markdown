@@ -1,6 +1,7 @@
 ---
 title: ":ramen: Recon Flow For Bug Bounty"
 layout: post
+category: blog
 tag: jekyll
 headerImage: true
 hidden: true 
