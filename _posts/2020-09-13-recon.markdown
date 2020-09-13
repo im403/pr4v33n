@@ -1,11 +1,14 @@
 ---
-title: ":ramen: Recon Flow For Bug Bounty"
+title: "Markdown Extra Components"
 layout: post
+image: /assets/images/markdown.jpg
+headerImage: false
+tag:
+- markdown
+- components
+- extra
 category: blog
-tag: jekyll
-headerImage: true
-hidden: true 
-description: "Doing recon in specific pipeline for easy win"
-author: Praveen Thiyagarayam
-externalLink: false
+author: jamesfoster
+description: Markdown summary with different options
 ---
+
