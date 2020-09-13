@@ -9,6 +9,25 @@ tag:
 - Recon
 category: blog
 author: Praveen Thiyagarayam
-description: Markdown summary with different options
+description: Recon flow when you are targeting a full scope application
 ---
+
+## The Initial Step to take when we are targeting full scope (`*.target.com`)
+
+* When we have a full scope target everyone will perform subdomain enumeration this is the place where we are differentiating us from other bug bounty hunter for easy win
+
+* There are two kinds of Bug Bounty Hunters. One will deep dive into the application logic to find bugs, the other one will find easy bugs by digging into the assets.
+
+## In-scope
+
+* Different ways to collect subdomains `yet simple but powerfull`
+
+## Methods used to collect subdomains for a target
+
+* Scraping
+
+* Bruteforcing
+
+
+
 
