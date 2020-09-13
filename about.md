@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>Praveen Thiyagarayam A.K.A r3$1l3n7 - Full Time Security Analyst - Part Time Bug Bounty Hunter - Python Developer - Love to Automate Things - OWASP Tiruvallur (Head)</p>
+<p><b>Praveen Thiyagarayam A.K.A r3$1l3n7 - Full Time Security Analyst - Part Time Bug Bounty Hunter - Python Developer - Love to Automate Things - OWASP Tiruvallur (Head)</b></p>
 
 <h2>Skills</h2>
 

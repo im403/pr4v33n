@@ -1,6 +1,6 @@
 # main text of home
 name: Praveen Thiyagarayam
-bio: A Man who loves technology and spend time with friends :p:
+bio: A Man who loves technology and spend time with friends.
 
 # twitter summary info
 description: A blog about my learnings
@@ -16,7 +16,7 @@ resume: true
 resume-external: true
 resume-url: https://google.com/?q=my+resume
 
-url: https://sergiokopplin.github.io/indigo
+url: https://pr4v33n.in
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -34,20 +34,20 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
+facebook: singh.praveen.391
 twitter: mytwitter
-# instagram: myinstagram
+instagram: pr4v3n
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: praveen-thiyagarayam-901131126
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: im403
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
 email: pr4v33n7@gmail.com
