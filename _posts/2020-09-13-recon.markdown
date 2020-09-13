@@ -32,12 +32,9 @@ description: Recon flow when you are targeting a full scope application
 
 * Scraping subdomains using open source information gathering
 
-<<<<<<< HEAD
 * Amass - Amass has the capability to scrape data across 48 sources like Shodan, Virustotal, Censys, Github, Facebook CT and much more for more information you can just run command
 
-=======
-* Amass - Amass has the capability to scrape data across 48 sources like Shodan, Virustotal, Censys, Github, Facebook CT and much more for more information you can just run command 
->>>>>>> 71b1a40615e4de5af6ab01f5545d5e2252041899
+* Amass - Amass has the capability to scrape data across 48 sources like Shodan, Virustotal, Censys, Github, Facebook CT and much more for more information you can just run command
 ```bash
 amass enum -list
 ```
