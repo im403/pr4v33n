@@ -1,0 +1,10 @@
+---
+title: ":ramen: Recon Flow For Bug Bounty"
+layout: post
+tag: jekyll
+headerImage: true
+hidden: true 
+description: "Doing recon in specific pipeline for easy win"
+author: Praveen Thiyagarayam
+externalLink: false
+---
