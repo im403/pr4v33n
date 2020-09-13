@@ -32,9 +32,7 @@ description: Recon flow when you are targeting a full scope application
 
 * Scraping subdomains using open source information gathering
 
-* Amass - Amass has the capability to scrape data across 48 sources like Shodan, Virustotal, Censys, Github, Facebook CT and much more for more information you can just run command
-
-* Amass - Amass has the capability to scrape data across 48 sources like Shodan, Virustotal, Censys, Github, Facebook CT and much more for more information you can just run command
+* Amass - Amass has the capability to scrape data across 48 sources like Shodan, Virustotal, Censys, Github, Facebook CT and much more for more information you can just run command.
 ```bash
 amass enum -list
 ```
@@ -42,13 +40,19 @@ amass enum -list
 * Scraping subdomains using Amass just run a command 
 ```bash
 amass enum -passive -d example.com -config config.ini -o example_passive.txt
+```
 
+```bash
 amass enum -active -d example.com -config config.ini -o example_active.txt
 ```
 
 * config.ini file helps us with more valuable subdomains yet useful. We should specify API Keys for specific data sources. Take a look at [Amass](https://github.com/OWASP/Amass/blob/master/examples/config.ini) 
 
 Note: If you are lucky enough you will get subdomain takeover in less than one hour
+
+## Bruteforcing
+
+* Bruteforcing subdomains may end with hidden gem. Sometimes you can get into some sensitive informations without any authentication or weak credentials
 
 
 
