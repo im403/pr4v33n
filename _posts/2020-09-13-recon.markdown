@@ -1,14 +1,14 @@
 ---
-title: "Markdown Extra Components"
+title: "Recon Flow For Bug Bounty"
 layout: post
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- components
-- extra
+- Bug Bounty
+- Web App Pentesting
+- Recon
 category: blog
-author: jamesfoster
+author: Praveen Thiyagarayam
 description: Markdown summary with different options
 ---
 
