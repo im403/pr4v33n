@@ -38,7 +38,6 @@ amass enum -list
 ```
 
 * Scraping subdomains using Amass just run a command 
-
 ```bash
 amass enum -passive -d example.com -config config.ini -o example_passive.txt
 ```
